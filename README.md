@@ -1,4 +1,4 @@
-# Español ✨
+Español ✨
 
 ## Like Me – Desafío Full Stack (Parte I)
 
@@ -23,7 +23,7 @@ El objetivo fue construir un servidor con **Node.js** y **Express**, conectado a
 - CORS
 - dotenv
 
-# English ✨
+ English ✨
 
 ## Like Me – Full Stack Challenge (Part I)
 
